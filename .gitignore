@@ -1,0 +1,17 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas generadas por NetBeans/Ant
+build/
+dist/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Configuración local de NetBeans
+nbuser.private
+nbactions.xml
